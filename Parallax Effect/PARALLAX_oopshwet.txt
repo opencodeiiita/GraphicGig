@@ -1,0 +1,3 @@
+Design Link : "https://www.figma.com/design/JYn9RJtclIpsD726ObEBDN/parallex?node-id=0-1&m=dev&t=CZA87T5g3idwTQ6e-1"
+
+Prototype Link : "https://www.figma.com/proto/JYn9RJtclIpsD726ObEBDN/parallex?node-id=0-1&t=CZA87T5g3idwTQ6e-1"
